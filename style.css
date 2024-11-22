@@ -1,0 +1,28 @@
+h1 {
+    font-size:15px;
+}
+small {
+    font-size: 10px;
+    color: black;
+}
+.grid-container {
+    padding-top: 10px;
+    width: 1200px;
+}
+img {
+    width: 130px;
+    height: 160px;
+}
+.item2, .item3, .item4 {
+    color: rgb(85, 20, 146);
+}
+h2 {
+    font-size: small;
+}
+.item1 {
+    
+    width: 1250px;
+    text-align: center;
+    background-color: rgba(198, 192, 192, 0.8);
+}
+
